@@ -1,4 +1,5 @@
-### Hi there 👋
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher-L-Massie&show_icons=true)
+
 
 <!--
 **Christopher-L-Massie/Christopher-L-Massie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

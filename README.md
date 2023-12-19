@@ -1,4 +1,6 @@
 ![Christopher-L-Massie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher-L-Massie&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=30&custom_title=Christopher%27s%20GitHub%20Stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christopher-L-Massie&theme=dark)
+
 
 
 

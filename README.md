@@ -2,6 +2,8 @@
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ChristopherLMassie&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-L-Massie&theme=dark)
+
 
 
 

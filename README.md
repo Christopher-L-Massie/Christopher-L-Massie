@@ -1,4 +1,5 @@
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher-L-Massie&show_icons=true)
+![Christopher-L-Massie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher-L-Massie&show_icons=true&count_private=true)
+
 
 
 <!--

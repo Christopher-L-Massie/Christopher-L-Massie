@@ -1,7 +1,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Christopher-L-Massie&theme=dark)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ChristopherLMassie&theme=dark)
-
 ### Python Certification
 
 > ![Python Certification](certs/christopher_massie_pcep_cert_mini.png)
